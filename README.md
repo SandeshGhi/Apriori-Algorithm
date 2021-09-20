@@ -1,2 +1,2 @@
 # Apriori-Algorithm
-Apriori Algorithm in Jupyter Notrebook.
+Apriori Algorithm in Jupyter Notebook.
